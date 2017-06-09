@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/BeechoDubbo.iml" filepath="$PROJECT_DIR$/BeechoDubbo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/beecho-api/beecho-api.iml" filepath="$PROJECT_DIR$/beecho-api/beecho-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/beecho-consumer/beecho-consumer.iml" filepath="$PROJECT_DIR$/beecho-consumer/beecho-consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/beecho-provider/beecho-provider.iml" filepath="$PROJECT_DIR$/beecho-provider/beecho-provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/beecho-service/beecho-service.iml" filepath="$PROJECT_DIR$/beecho-service/beecho-service.iml" />
+    </modules>
+  </component>
+</project>
